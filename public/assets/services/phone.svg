@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Reparacion de celular</title>
+  <desc id="desc">Ilustracion editorial de un telefono abierto con herramientas de precision.</desc>
+  <rect width="1200" height="760" fill="#f8f6f1"/>
+  <rect x="115" y="120" width="970" height="520" rx="26" fill="#ffffff"/>
+  <rect x="395" y="115" width="410" height="520" rx="42" fill="#18181b"/>
+  <rect x="430" y="160" width="340" height="430" rx="24" fill="#27272a"/>
+  <rect x="465" y="205" width="270" height="44" rx="12" fill="#0071e3"/>
+  <rect x="465" y="285" width="110" height="110" rx="18" fill="#16a34a"/>
+  <rect x="625" y="285" width="110" height="110" rx="18" fill="#ffb929"/>
+  <rect x="465" y="435" width="270" height="20" rx="8" fill="#d4d4d8"/>
+  <rect x="465" y="475" width="220" height="20" rx="8" fill="#a1a1aa"/>
+  <rect x="190" y="515" width="240" height="26" rx="13" fill="#db5434"/>
+  <rect x="775" y="515" width="240" height="26" rx="13" fill="#3f71d4"/>
+</svg>

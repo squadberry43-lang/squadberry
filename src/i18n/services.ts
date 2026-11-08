@@ -1,0 +1,26 @@
+export const internationalServicesCopy: Record<'nl-NL' | 'en-US', Record<string, string>> = {
+  'nl-NL': {
+    'servicesIntl.eyebrow': 'Doctor Tech · technische ondersteuning',
+    'servicesIntl.title': 'Vertel wat er misgaat. Wij zoeken de juiste hulp.',
+    'servicesIntl.lead': 'Je hoeft geen reparatie te kiezen. Begin met je apparaat of verbinding en beschrijf wat je merkt.',
+    'servicesIntl.cta': 'Vertel wat er is gebeurd', 'servicesIntl.choose': 'Waarmee kunnen we helpen?',
+    'servicesIntl.personal': 'Telefoon of tablet', 'servicesIntl.personalText': 'Scherm, batterij, toegang of een ander probleem met een apparaat dat je dagelijks gebruikt.',
+    'servicesIntl.computers': 'Computer', 'servicesIntl.computersText': 'Een laptop of desktop die traag is, niet opstart of niet doet wat je nodig hebt.',
+    'servicesIntl.network': 'Wifi of netwerk', 'servicesIntl.networkText': 'Een verbinding die wegvalt of apparaten die elkaar niet bereiken.',
+    'servicesIntl.business': 'Bedrijf', 'servicesIntl.businessText': 'Ondersteuning voor je team, apparatuur en continuïteit, op locatie, op afstand of gecombineerd.',
+    'servicesIntl.nextTitle': 'Eerst begrijpen, dan handelen.',
+    'servicesIntl.nextText': 'We lezen je verzoek, bespreken de mogelijkheden en stemmen de ondersteuning met je af. Een verzoek is nog geen afspraak of offerte.',
+  },
+  'en-US': {
+    'servicesIntl.eyebrow': 'Doctor Tech · technical support',
+    'servicesIntl.title': 'Tell us what is going wrong. We will find the right help.',
+    'servicesIntl.lead': 'You do not need to choose a repair. Start with your device or connection and describe what you notice.',
+    'servicesIntl.cta': 'Tell us what happened', 'servicesIntl.choose': 'What needs attention?',
+    'servicesIntl.personal': 'Phone or tablet', 'servicesIntl.personalText': 'Screen, battery, access, or another issue with a device you use every day.',
+    'servicesIntl.computers': 'Computer', 'servicesIntl.computersText': 'A laptop or desktop that is slow, will not start, or is getting in the way.',
+    'servicesIntl.network': 'Wi-Fi or network', 'servicesIntl.networkText': 'A connection that drops or devices that cannot communicate.',
+    'servicesIntl.business': 'Business', 'servicesIntl.businessText': 'Support for your team, devices, and continuity, on-site, remote, or a mix of both.',
+    'servicesIntl.nextTitle': 'Understand first. Then act.',
+    'servicesIntl.nextText': 'We review your request, discuss the options, and coordinate support with you. A request is not yet an appointment or quote.',
+  },
+};

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">SquadBerry — Soporte TI</title>
+  <desc id="desc">Marca SquadBerry con una manzana tecnológica, auricular de soporte y degradados azul, cian y violeta.</desc>
+  <defs>
+    <linearGradient id="berry" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset=".48" stop-color="#1457F4"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#41E7F5"/>
+      <stop offset=".55" stop-color="#1473F5"/>
+      <stop offset="1" stop-color="#173BD4"/>
+    </linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#11CDEA"/>
+      <stop offset=".55" stop-color="#2276F5"/>
+      <stop offset="1" stop-color="#9250F6"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#42E7F5"/>
+      <stop offset="1" stop-color="#1663E9"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" rx="72" fill="#050D21"/>
+  <g transform="translate(800 310) scale(.72)">
+    <path d="M-66-204C-85-262-123-290-174-299c-5 67 19 114 83 137" fill="url(#leaf)"/>
+    <path d="M-3-205c-3-94 39-163 119-207 12 102-31 177-111 218" fill="url(#leaf)"/>
+    <path d="M-89-180c-105-13-188 53-201 166-13 121 72 236 203 236 91 0 145-38 178-84 34 46 88 84 179 84 128 0 212-114 198-236-13-113-96-179-200-166-50 6-91 29-124 57-33-28-75-51-125-57Z" fill="url(#berry)" filter="url(#glow)"/>
+    <path d="M-228-97c73-63 155-65 226-35 74 31 137 37 209 5-76 69-93 139-43 211 29 42 52 78 54 125-44 23-88 36-132 36-79 0-132-37-174-80-42 43-96 80-174 80-39 0-77-10-115-30 1-62 29-108 67-159 43-59 32-119-12-178Z" fill="#050D21" opacity=".94"/>
+    <path d="M-292-132c88-91 196-104 305-55 59 27 119 37 180 25-55 35-89 82-96 141-7 57 19 109 54 162-60-32-104-74-135-126-34-58-68-88-137-112-78-27-132-80-171-135Z" fill="url(#berry)"/>
+    <g fill="#22D3EE">
+      <rect x="35" y="-84" width="30" height="30" rx="2"/>
+      <rect x="-5" y="-42" width="30" height="30" rx="2"/>
+      <rect x="35" y="0" width="30" height="30" rx="2"/>
+    </g>
+    <path d="M224-164c104 11 166 89 166 180 0 54-22 103-58 137" fill="none" stroke="url(#metal)" stroke-width="22" stroke-linecap="round"/>
+    <g transform="translate(298 0)">
+      <ellipse cx="0" cy="0" rx="42" ry="61" fill="#07142E" stroke="url(#metal)" stroke-width="17"/>
+      <ellipse cx="8" cy="0" rx="30" ry="44" fill="url(#metal)"/>
+    </g>
+    <path d="M244 155c-21 37-53 62-96 77" fill="none" stroke="url(#metal)" stroke-width="15" stroke-linecap="round"/>
+    <rect x="104" y="213" width="82" height="34" rx="17" fill="url(#metal)" transform="rotate(-14 145 230)"/>
+  </g>
+  <text x="448" y="650" fill="#FFFFFF" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="154" font-weight="800" letter-spacing="-8">Squad</text>
+  <text x="843" y="650" fill="url(#word)" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="154" font-weight="800" letter-spacing="-8">Berry</text>
+  <g transform="translate(800 725)" fill="#FFFFFF">
+    <rect x="-455" y="-4" width="132" height="8" rx="4" fill="#22D3EE"/>
+    <text x="0" y="16" text-anchor="middle" font-family="Montserrat, Arial, Helvetica, sans-serif" font-size="40" letter-spacing="18">SOPORTE TI</text>
+    <rect x="323" y="-4" width="132" height="8" rx="4" fill="#9250F6"/>
+  </g>
+</svg>

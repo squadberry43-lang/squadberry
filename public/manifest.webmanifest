@@ -1,0 +1,19 @@
+{
+  "name": "Doctor Tech",
+  "short_name": "Doctor Tech",
+  "description": "Atención técnica para tus equipos, a domicilio y remota.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfbfc",
+  "theme_color": "#202124",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/assets/brand/doctor-tech-avatar.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

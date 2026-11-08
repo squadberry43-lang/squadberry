@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Mesa tecnica con laptop abierta</title>
+  <desc id="desc">Ilustracion editorial de una laptop abierta sobre una mesa de reparacion tecnica.</desc>
+  <rect width="1200" height="760" fill="#f4f0e8"/>
+  <rect x="0" y="520" width="1200" height="240" fill="#171717"/>
+  <rect x="190" y="155" width="820" height="440" rx="18" fill="#27272a"/>
+  <rect x="230" y="195" width="740" height="340" rx="10" fill="#fafafa"/>
+  <rect x="300" y="255" width="600" height="34" rx="8" fill="#0071e3"/>
+  <rect x="300" y="325" width="250" height="24" rx="7" fill="#d4d4d8"/>
+  <rect x="300" y="375" width="430" height="18" rx="6" fill="#e4e4e7"/>
+  <rect x="300" y="415" width="360" height="18" rx="6" fill="#e4e4e7"/>
+  <rect x="220" y="595" width="760" height="54" rx="14" fill="#3f3f46"/>
+  <circle cx="930" cy="625" r="18" fill="#ffb929"/>
+  <rect x="90" y="445" width="220" height="28" rx="14" fill="#0071e3"/>
+  <rect x="855" y="445" width="230" height="28" rx="14" fill="#16a34a"/>
+</svg>

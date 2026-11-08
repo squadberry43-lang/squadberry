@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SquadBerry</title>
+  <desc id="desc">Ícono de soporte técnico SquadBerry.</desc>
+  <defs>
+    <linearGradient id="berry" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#1457F4"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#41E7F5"/><stop offset="1" stop-color="#173BD4"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#050D21"/>
+  <g transform="translate(256 260)">
+    <path d="M-38-164c-9-45-34-70-77-80-3 48 17 80 62 94M4-164c-2-65 27-112 84-140 6 67-23 117-80 145" fill="url(#leaf)"/>
+    <path d="M-56-139c-84-10-150 42-160 132-10 95 57 184 160 184 68 0 108-26 137-62 29 36 70 62 137 62 102 0 169-89 159-184-10-90-76-142-160-132-43 5-78 24-106 49-28-25-64-44-107-49Z" fill="url(#berry)"/>
+    <path d="M-168-90c59-54 131-61 193-33 70 31 121 30 166 5-54 52-56 108-15 168-43-18-80-55-108-103-25-42-55-62-113-82-59-21-98-56-123-95Z" fill="#050D21" opacity=".94"/>
+    <g fill="#22D3EE"><rect x="19" y="-53" width="24" height="24" rx="2"/><rect x="-13" y="-18" width="24" height="24" rx="2"/><rect x="19" y="17" width="24" height="24" rx="2"/></g>
+    <path d="M158-118c69 10 105 59 105 118 0 35-14 68-39 92" fill="none" stroke="#22D3EE" stroke-width="16" stroke-linecap="round"/>
+    <ellipse cx="214" cy="-5" rx="29" ry="42" fill="#22D3EE"/><ellipse cx="214" cy="-5" rx="18" ry="28" fill="#1457F4"/>
+    <path d="M172 102c-15 26-35 43-65 54" fill="none" stroke="#22D3EE" stroke-width="12" stroke-linecap="round"/><rect x="75" y="142" width="57" height="25" rx="12" fill="#22D3EE" transform="rotate(-16 103 154)"/>
+  </g>
+</svg>

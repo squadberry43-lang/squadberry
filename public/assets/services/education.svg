@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Clase de informatica</title>
+  <desc id="desc">Ilustracion editorial de una capacitacion tecnologica con computadora.</desc>
+  <rect width="1200" height="760" fill="#f4f0e8"/>
+  <rect x="120" y="130" width="960" height="500" rx="20" fill="#ffffff"/>
+  <rect x="245" y="190" width="710" height="310" rx="16" fill="#18181b"/>
+  <rect x="290" y="240" width="620" height="210" rx="10" fill="#fafafa"/>
+  <rect x="340" y="285" width="260" height="32" rx="9" fill="#0071e3"/>
+  <rect x="340" y="350" width="410" height="20" rx="7" fill="#d4d4d8"/>
+  <rect x="340" y="395" width="320" height="20" rx="7" fill="#e4e4e7"/>
+  <rect x="380" y="500" width="440" height="42" rx="10" fill="#27272a"/>
+  <circle cx="250" cy="535" r="48" fill="#ffb929"/>
+  <circle cx="945" cy="535" r="48" fill="#16a34a"/>
+</svg>

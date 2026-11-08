@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Private application routes use page-level noindex directives.

@@ -1,0 +1,18 @@
+.staff-calendar .rbc-calendar { color: #202124; font-size: 13px; }
+.staff-calendar .rbc-toolbar { gap: 8px; margin-bottom: 14px; }
+.staff-calendar .rbc-toolbar button { border: 1px solid #dadce0; border-radius: 6px; background: #fff; color: #3c4043; }
+.staff-calendar .rbc-toolbar button:hover,
+.staff-calendar .rbc-toolbar button:focus-visible { background: #f5f5f7; }
+.staff-calendar .rbc-toolbar button.rbc-active { background: #202124; color: #fff; box-shadow: none; }
+.staff-calendar .rbc-header { padding: 9px 4px; font-weight: 600; }
+.staff-calendar .rbc-today { background: #f4f8ff; }
+.staff-calendar .rbc-event { border: 0; border-radius: 4px; padding: 3px 6px; }
+.staff-calendar .staff-event-task { background: #0066cc; }
+.staff-calendar .staff-event-visit { background: #287348; }
+.staff-calendar .rbc-off-range-bg { background: #f8f8fa; }
+@media (max-width: 640px) {
+  .staff-calendar .rbc-toolbar { align-items: stretch; flex-direction: column; }
+  .staff-calendar .rbc-toolbar-label { order: -1; padding: 6px 0; font-weight: 600; }
+  .staff-calendar .rbc-toolbar button { padding: 6px 9px; }
+  .staff-calendar .rbc-calendar { font-size: 11px; }
+}
